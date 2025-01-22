@@ -1,7 +1,7 @@
 ﻿央视频道,#genre#
 
 CCTV1 综合,http://120.76.248.139/live/bfgd/4200000488.m3u8
-CCTV1 综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
+CCTV1 综合,http://223.10.214.230:6007/udp/239.1.1.7:8007
 CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
 CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
@@ -65,9 +65,10 @@ CCTV12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.co
 CCTV12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225731/index.m3u8
 
 CCTV13 新闻,http://120.76.248.139/live/bfgd/4200000067.m3u8
-CCTV13 新闻,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13 新闻,http://171.213.195.166:4000/udp/239.93.0.66:5140
 CCTV13 新闻,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 CCTV13 新闻,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+
 CCTV14 少儿,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225640/2/index.m3u8
 CCTV14 少儿,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225639/2/index.m3u8
 CCTV14 少儿,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225640/index.m3u8
@@ -95,7 +96,7 @@ CCTV8K,https://pi.0472.org/live/cctv8k.m3u8?token=241703
 
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 
-湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+湖南卫视,http://120.76.248.139/live/bfgd/4200000086.m3u8
 
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 
@@ -123,7 +124,7 @@ CCTV8K,https://pi.0472.org/live/cctv8k.m3u8?token=241703
 
 江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 
-四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+四川卫视,http://120.76.248.139/live/bfgd/4200000103.m3u8
 
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 
