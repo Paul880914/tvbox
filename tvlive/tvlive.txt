@@ -2,7 +2,7 @@
 
 CCTV1 综合,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1 综合,http://223.10.214.230:6007/udp/239.1.1.7:8007
-CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1 综合,http://106.53.99.30/dl/bjyd.php?id=1
 CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
 CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV2 财经,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225643/2/index.m3u8
