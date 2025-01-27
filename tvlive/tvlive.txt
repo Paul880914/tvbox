@@ -1,11 +1,15 @@
 ﻿央视频道,#genre#
 
-CCTV1 综合,http://120.76.248.139/live/bfgd/4200000488.m3u8
-CCTV1 综合,http://223.10.214.230:6007/udp/239.1.1.7:8007
-CCTV1 综合,http://106.53.99.30/dl/bjyd.php?id=1
-CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
+CCTV1 综合,http://1.itv.nctv.top:35455/gaoma/cctv1.m3u8
+CCTV1 综合,http://itv.nctv.top:35455/gaoma/cctv1.m3u8
+CCTV1 综合,http://2000.run:35455/gaoma/cctv1.m3u8
+CCTV1 综合,http://117.144.58.42:35455/gaoma/cctv1.m3u8
+CCTV1 综合,http://111.170.172.113:35455/gaoma/cctv1.m3u8
+CCTV1 综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225618/2/index.m3u8
 CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-CCTV1 综合,http://14.157.91.186:4022/udp/239.77.1.17:5146
+CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
+CCTV1 综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225642/2/index.m3u8
 
 CCTV2 财经,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225643/2/index.m3u8
 CCTV2 财经,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225619/2/index.m3u8
@@ -65,10 +69,7 @@ CCTV12 社会与法,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224
 CCTV12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225731/index.m3u8
 
-CCTV13 新闻,http://120.76.248.139/live/bfgd/4200000067.m3u8
-CCTV13 新闻,http://171.213.195.166:4000/udp/239.93.0.66:5140
-CCTV13 新闻,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
-CCTV13 新闻,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV13 新闻,http://183.255.10.70:6610/200000001898/460000089800010093/1.m3u8?IASHttpSessionId=007
 
 CCTV14 少儿,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225640/2/index.m3u8
 CCTV14 少儿,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225639/2/index.m3u8
